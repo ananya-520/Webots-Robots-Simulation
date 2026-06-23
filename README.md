@@ -1,4 +1,4 @@
 # Webots Robot Simulation
 This project involves programming a robot in Webots to navigate a maze and locate the brightest light source using sensors. The robot uses distance sensors to avoid obstacles and follow walls, a light sensor to detect light intensity, and a GPS sensor to record coordinates. It identifies dead-ends in the maze, logs the light intensity and location at each dead-end, and determines the brightest spot. After finding the target location with the highest light intensity, the robot navigates to it. The project demonstrates the integration of sensor data and logical decision-making for autonomous navigation.
 
-This project was created as a part of the CSCI291 Project Requirements under the Computer and Autonomous Systems Engineering course in UOWD.
+This project is designed and developed in collaboration with **Amritaa Shankar** and is created as a part of the *CSCI291 - Programming for Engineers* Project Requirements under the Computer and Autonomous Systems Engineering course in UOWD.
